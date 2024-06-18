@@ -1,0 +1,20 @@
+#fundo {
+    background-image: url(imagens/fundo.png);
+}
+
+.fundo1 {
+    background-color: rgb(179, 179, 159);
+}
+
+.fundo2 {
+    background-color: rgb(236, 232, 213);
+}
+
+.hiperligacoes {
+    color: rgb(59, 101, 136);
+    text-decoration: none;
+}
+
+.titulotexto {
+    color: rgb(172, 150, 102);
+}
